@@ -31,10 +31,6 @@ public class Test {
             }
             double averge = studentgrade/samenum;
 
-
-            for (int j = 0;j<s[i].length;j++){
-
-            }
         }
 
 
