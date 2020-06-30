@@ -1,0 +1,8 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="addImportMostCloseToReference" value="true" />
+      <option name="classCountToUseImportOnDemand" value="7" />
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
